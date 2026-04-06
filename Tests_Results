@@ -1,0 +1,8 @@
+There have been a lot of tests throughout the creation of the project!
+The very first ones were tests of the AJ - SR04M sensor, since it makes a LOT of noise, I did a lot of smoothing for it, because it would be important in the future because of auto-shutdown at the same values, 
+Then the display tests went on, it was difficult to do without the 74HC595 (2 such chips burned down along the way when I tried to make a breadboard)
+then I decided to try the adapter and everything worked with it. 
+then, accordingly, 2 NRFs were connected (by the way, do not take programmers to them, they do not work anyway, it's better to solder the capacitor) well, everything went quickly and smoothly with NRF
+After creating 1 working full-fledged system (with a case, of course), there were tests for the range finder and accuracy of readings
+The result was... The margin of error was only 3cm, and the sensor itself measured from 25cm to 600cm.
+That's all for now! New experiments are coming soon!
