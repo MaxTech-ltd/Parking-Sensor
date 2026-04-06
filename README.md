@@ -1,4 +1,4 @@
-#Parking sensor:
+# Parking sensor:
   Wireless parking assistance System 
 
 Features:
