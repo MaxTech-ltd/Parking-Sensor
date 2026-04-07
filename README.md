@@ -8,20 +8,20 @@
   Displaying the distance in meters and showing through the light strip
   The system is waterproof with IP - 65 protection
 
-# Composition:
+## Composition:
   The system includes
     Outdoor unit (the one that is mounted on the vehicle body)
     Indoor unit (the one that is located in the cabin)
 
-# System logic:
+## System logic:
 The distance sensor collects data, removes junk values and transmits NRF
   The NRF of the outdoor unit transmits data to the NRF of the indoor unit
   It is being processed in the form of conversion to meters and to the code for 74HC595, which controls the LED display.
   There is also sound processing and sending a signal to the piezo squeaker (BUZ)
   End! And so on through the cycle.
 
-# Components:
-Outdoor Unit
+## Components:
+### Outdoor Unit
   AJ - SR04M
   Arduino Nano
   BMS module
