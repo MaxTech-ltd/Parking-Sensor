@@ -1,7 +1,7 @@
 # Parking sensor:
   Wireless parking assistance System 
 
-# Features:
+## Features:
   Wireless connection
   Attachment to any metal point of the vehicle
   Quick-release design
@@ -20,7 +20,7 @@ The distance sensor collects data, removes junk values and transmits NRF
   There is also sound processing and sending a signal to the piezo squeaker (BUZ)
   End! And so on through the cycle.
 
-Components:
+# Components:
 Outdoor Unit
   AJ - SR04M
   Arduino Nano
