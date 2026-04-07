@@ -41,16 +41,16 @@ The distance sensor collects data, removes junk values and transmits NRF
 Button with rubber gasket
     Piez squeaker (BUZ)
 
-Product photo:
+## Product photo:
 https://github.com/user-attachments/assets/96d1c9fd-ff93-4996-920d-564c63c06a23
 https://github.com/user-attachments/assets/f8f21fb6-308a-4b19-b9ac-bf73f55bd6ab
 https://github.com/user-attachments/assets/d208c4cd-26d4-4563-955e-dc7528ba7d5b
 
-Photos of 3D models (layout):
+## Photos of 3D models (layout):
 https://github.com/user-attachments/assets/9b1c6de0-56ad-46bd-90fe-751394716301
 https://github.com/user-attachments/assets/3a5fda4e-28cd-48c2-95ce-8e8e8b001a86
 https://github.com/user-attachments/assets/6ea48209-74a3-413e-850c-3dc23e67226a
 
-Photos of 3D models (printed version):
+## Photos of 3D models (printed version):
 https://github.com/user-attachments/assets/b57e1896-0d03-428c-ad0a-ace15aea84e6
 https://github.com/user-attachments/assets/a7808c1e-6ca8-4690-aa55-c06ada343056
