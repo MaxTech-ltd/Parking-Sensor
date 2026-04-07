@@ -32,12 +32,12 @@ The distance sensor collects data, removes junk values and transmits NRF
   Button with rubber gasket
   2 neodymium magnets (I'm already planning to make 4 for greater reliability)
 ### Indoor unit
-    Arduino Nano
-    BMS module
-    2 Li-ion 18650 3.7V each
-    The 74HC595 chip
-    nRF24L01
-    Charging module TZT teng DDTCCRUB
+  Arduino Nano
+  BMS module
+  2 Li-ion 18650 3.7V each
+  The 74HC595 chip
+  nRF24L01
+  Charging module TZT teng DDTCCRUB
 Button with rubber gasket
     Piez squeaker (BUZ)
 
